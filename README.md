@@ -23,6 +23,6 @@ python Search.py
 The following files are:
 - Sites.txt contains the url bases of the retrieved web pages;
 - Collect_lib.py is the library used by Collect program;
-- Index_lib.py is the library used by Search program;
+- Index_lib.py is the library used by Index program;
 - Search_lib.py is the library used by Search program;
 
