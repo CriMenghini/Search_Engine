@@ -1,7 +1,9 @@
 # Search_Engine
-The purpuse of the project was to buil a Search Engine on a series of advertisements collected from websites of Kijiji. 
-Given a specific query the Engine gives you back the documents that contains all the words in the query.
-It was the first project of my life. When i wrote it ( in mid-november) it'd been just one month that i was programming. I built it in 2 weeks. It doesn't contain bugs, I mean, it works. But, actually, I think that there are many lines that may be dropped out, and many functions that could be rewritten.
+The purpuse of the project was to buil a Search Engine(AND boolean query) on advertisements collected from Kijiji.com. 
+
+It has been my first CS project of my life. I built it in mid-november and it'd been just one month that I was programming. The project lasts two weeks. 
+
+The code doesn't contain bugs, so it works. But, actually, I think that there are many lines that may be dropped out and many functions that could be rewritten.
 
 # Structure of the project
 It consists in three program that do different actions. 
