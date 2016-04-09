@@ -1,4 +1,4 @@
-# Search_Engine
+# Search_Engine(1-15 November 2016)
 The purpuse of the project was to buil a Search Engine(AND boolean query) on advertisements collected from Kijiji.com. 
 
 It has been my first CS project of my life. I built it in mid-november and it'd been just one month that I was programming. The project lasts two weeks. 
